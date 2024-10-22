@@ -2,7 +2,7 @@
 
 ## Project Features
 
-Our stopwatch is designed to provide precise time measurement with the following functionalities:
+This stopwatch is designed to provide precise time measurement with the following functionalities:
 
 - **Lap Recording**: Capture individual lap or segment times for detailed analysis.
 - **User Interface**: Simple button-based control allowing actions like start, stop, and saving time measurements.
